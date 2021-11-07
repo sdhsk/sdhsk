@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Machine learning 
+### Deep learning 
+### Domain Adaptation
+### NLP
+### Summary is something about what I've learnrd
 
 <!--
 **sdhsk/sdhsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
